@@ -6,7 +6,7 @@ body{
 nav{
     position: absolute;
     top: 100px;
-    right: 75px;
+    right: 150px;
 }
 nav a{
     text-decoration: none;
@@ -20,6 +20,7 @@ nav a:hover{
     font-weight: bold;
     color: rgb(255, 89, 0);
     transition: 0.75s;
+    
 }
 h3{
     text-align: left;
